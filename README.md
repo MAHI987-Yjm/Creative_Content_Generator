@@ -61,7 +61,7 @@ Ensure the API key has access to both GPT and image generation endpoints. For be
 ### Usage
 1. **Launch the App**
    ```bash
-   streamlit run app.py
+   python3 -m streamlit run app.py
    ```
 2. **Navigate in Browser**
    - Text Generation: Select Story, Poem, Ad Copy, or Social Caption, enter a topic, and click “Generate Text.”
