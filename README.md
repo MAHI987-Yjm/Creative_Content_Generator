@@ -95,8 +95,7 @@ Contributions welcome!
 - Follow standard Python and Streamlit coding practices
 
 ### License
-[MIT License](LICENSE)  
-See LICENSE file for details.
+Copyright (c) 2025 Mahendra
 
 ### Acknowledgments
 - OpenAI (GPT-3.5-turbo, DALL·E)
